@@ -3,7 +3,7 @@ import React from "react";
 const ChartPicker = () => {
   return (
     <div>
-      <h1>ChartPicker</h1>
+      <h1>CountryPicker</h1>
     </div>
   );
 };
